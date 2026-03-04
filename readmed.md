@@ -11,3 +11,22 @@ As ações foi selecionado cinco de grande relevancia ao mercado financeiro:
 PETR4.SA (Petroleo brasileiro S.A - Petroleio)
 VALE3.SA (Vale S.A)
 ITUB4.SA (ITAU unibanco Holding S.A)
+AAPL (Apple Inc.)
+TSLA (tesla, inc).
+
+3)O periodo historico utilizado é o:
+Inicio: 01 de janeiro de 2019
+fim: 01 de janeiro de 2025
+
+4)Descrição do modelo de rede neural:
+Foi adotado a uma arquitetura de rede neural recorrente do tipo LSTM().
+Essa capcidade justifica a escolha do LSTM em aprender dependencia de longo prazo em sequencia temporais,
+superando ate a rede neural densa tradicionais no tratamento financeiro de dados.
+
+5)
+
+6)
+
+7)
+
+8)
