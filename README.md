@@ -41,9 +41,13 @@ Previsão de Séries Temporais Financeiras com Redes Neurais
   git clone https: //github.com
 
   !pip install yfinance 
+  
   !pip install pandas
+  
   !pip install matplotlib
+  
   !pip install scikit-learn
+  
   !pip tensorflow
 
 8) A avaliação do modelo
