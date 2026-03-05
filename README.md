@@ -45,3 +45,5 @@ Previsão de Séries Temporais Financeiras com Redes Neurais
   !pip install matplotlib
   !pip install scikit-learn
   !pip tensorflow
+
+8) A avaliação do modelo
