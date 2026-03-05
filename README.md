@@ -31,4 +31,15 @@ A identificação das tendêcias, volatibilidade e padrões
 
 Esses graficos permitem compreender a dinamica de cada serie individual ante da modelagem
 
-6)
+6)Metricas utilizada para avaliação foi:
+O desempenho foi mensurado por:
+mae(mean absolute error): Trata do erro média absoluto em termos monetários
+rmse (root mean squared error): Trata da raiz do erro do rmse quadratico medio, que penaliza erros maiores
+
+7) A intrução para execução:
+
+git clone https: //github.com
+
+!pip install yfinance 
+!pip install pandas
+!pip install matplotlib
